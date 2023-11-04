@@ -8,8 +8,8 @@ Loot that was originally from Onyxia has also been removed from Nefarian's drop 
 
 To use this addon:
 
-1. Clone the repository or download the latest release.
+1. Clone the repository or download the latest zip.
 2. Navigate to your server's `Addons` directory.
-3. Uzip folder inside the `Addons` directory.
+3. Copy the contents of the zip folders inside the `Addons` directory.
 4. Restart your client.
 
