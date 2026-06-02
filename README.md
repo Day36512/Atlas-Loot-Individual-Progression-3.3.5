@@ -1,4 +1,4 @@
-# Naxx40 and Onyxia40 Loot Tables Restoration for WoW 3.3.5
+# Vanilla Restoration for WoW 3.3.5
 
 This repository contains the restored loot tables for Naxxramas 40-man and Onyxia's Lair 40-man for World of Warcraft private servers that progress through Vanilla, The Burning Crusade, and Wrath of the Lich King (3.3.5). The project aims to provide a classic experience for players by reintroducing original loot distributions for these iconic raids.
 
